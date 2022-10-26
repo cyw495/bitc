@@ -1,0 +1,3 @@
+﻿  test04.c
+E:\MyCode\Microsotf Visual Studio\Test04\test04.c(346): warning C4717: “main”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+  Test04.vcxproj -> E:\MyCode\Microsotf Visual Studio\Top\test_4_16\Debug\Test04.exe

@@ -1,0 +1,6 @@
+﻿D:\download1\Microsotf Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Test04.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test04.c
+E:\MyCode\Microsotf Visual Studio\Test02_function\test04.c(284,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\MyCode\Microsotf Visual Studio\Test02_function\test04.c(284,9): message : 请考虑在格式字符串中使用“%zd”
+E:\MyCode\Microsotf Visual Studio\Test02_function\test04.c(280,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Test02_function.vcxproj -> E:\MyCode\Microsotf Visual Studio\Test02_function\x64\Debug\Test02_function.exe
